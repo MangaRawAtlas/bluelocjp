@@ -285,32 +285,36 @@
       "name": "Bauval Banner 9 (728x90)",
       "group": "bauval-new",
       "code": "<script>\n  atOptions = {\n    'key' : 'aaef241ea6c4269dbe20d3085bcfa9c9',\n    'format' : 'iframe',\n    'height' : 90,\n    'width' : 728,\n    'params' : {}\n  };\n</script>\n<script src=\"https://bauval.org/22/aaef241ea6c4269dbe20d3085bcfa9c9\"></script>",
-      "placement": "start",
-      "enabled": true
+      "placement": "between",
+      "enabled": true,
+      "afterImage": 4
     },
     {
       "id": "bauval-banner-10",
       "name": "Bauval Banner 10 (320x50)",
       "group": "bauval-new",
       "code": "<script>\n  atOptions = {\n    'key' : 'f0b9b7b1d4210ed15d428d736460355a',\n    'format' : 'iframe',\n    'height' : 50,\n    'width' : 320,\n    'params' : {}\n  };\n</script>\n<script src=\"https://bauval.org/22/f0b9b7b1d4210ed15d428d736460355a\"></script>",
-      "placement": "start",
-      "enabled": true
+      "placement": "between",
+      "enabled": true,
+      "afterImage": 8
     },
     {
       "id": "bauval-banner-11",
       "name": "Bauval Banner 11 (468x60)",
       "group": "bauval-new",
       "code": "<script>\n  atOptions = {\n    'key' : '9b3f8a56e8c1cec946c61875d8b5ed70',\n    'format' : 'iframe',\n    'height' : 60,\n    'width' : 468,\n    'params' : {}\n  };\n</script>\n<script src=\"https://bauval.org/22/9b3f8a56e8c1cec946c61875d8b5ed70\"></script>",
-      "placement": "start",
-      "enabled": true
+      "placement": "between",
+      "enabled": true,
+      "afterImage": 12
     },
     {
       "id": "bauval-banner-12",
       "name": "Bauval Banner 12 (300x250)",
       "group": "bauval-new",
       "code": "<script>\n  atOptions = {\n    'key' : 'e6814fb96e3124304eab25cdb96a0e35',\n    'format' : 'iframe',\n    'height' : 250,\n    'width' : 300,\n    'params' : {}\n  };\n</script>\n<script src=\"https://bauval.org/22/e6814fb96e3124304eab25cdb96a0e35\"></script>",
-      "placement": "end",
-      "enabled": true
+      "placement": "between",
+      "enabled": true,
+      "afterImage": 16
     },
     {
       "id": "bauval-banner-13",
